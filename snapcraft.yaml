@@ -6,6 +6,7 @@ description: |
   It lets you switch easily between several programs in one terminal,
   detach them (they keep running in the background) and reattach them to a different terminal.
   And do a lot more.
+https://github.com/shawn111/tmux.snap
 
 apps:
   tmux:
@@ -16,5 +17,5 @@ parts:
     plugin: autotools
     source: https://github.com/tmux/tmux.git
     source-type: git
-    build-packages: [libevent-dev, libncurses5-dev]
+    build-packages: [libevent-dev, libncurses5-dev, pkg-config]
     stage-packages: [libevent-2.0-5, libncurses5]
