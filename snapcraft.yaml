@@ -1,6 +1,6 @@
 name: tmux
 version: 2.3
-summary: tmux is a terminal multiplexer
+summary: tmux is a terminal multiplexer (non-official)
 description: |
   What is a terminal multiplexer?
   It lets you switch easily between several programs in one terminal,
