@@ -1,5 +1,7 @@
 # tmux.snap
 
+[![Snap Status](https://build.snapcraft.io/badge/shawn111/tmux.snap.svg)](https://build.snapcraft.io/user/shawn111/tmux.snap)
+
 Note: This package is not official snap.
 
 How to use:
